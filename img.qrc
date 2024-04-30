@@ -1,0 +1,79 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>img/account.png</file>
+        <file>img/person.png</file>
+        <file>img/ach.jpg</file>
+        <file>img/card.svg</file>
+        <file>img/Employee-Payroll-App.jpg</file>
+        <file>img/e-wallet.jpg</file>
+        <file>img/e-wallet2.jpg</file>
+        <file>img/e-wallet3.jpg</file>
+        <file>img/OIP.jpeg</file>
+        <file>img/ew5.png</file>
+        <file>img/add_box_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/add_circle_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/apps_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/backspace_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/cancel_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/check_circle_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/delete_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/done_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/download_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/favorite_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/file_download_done_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/home_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/keyboard_voice_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/login_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/logout_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/manage_search_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/menu_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/payment-method.png</file>
+        <file>img/profile.jpg</file>
+        <file>img/search_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/home_FILL1_wght400_GRAD0_opsz24.png</file>
+        <file>img/other_houses_FILL1_wght400_GRAD0_opsz24.png</file>
+        <file>img/other_houses_FILL1_wght400_GRAD0_opsz24.svg</file>
+        <file>img/paid_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/paid_FILL0_wght400_GRAD0_opsz48-W.png</file>
+        <file>img/receipt_long_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/receipt_long_FILL0_wght400_GRAD0_opsz48-W.png</file>
+        <file>img/settings_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/settings_FILL0_wght400_GRAD0_opsz48_W.png</file>
+        <file>img/settings_FILL1.png</file>
+        <file>img/settings_FILL1_wght400_GRAD0_opsz24.png</file>
+        <file>img/wallet_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/wallet_FILL0_wght400_GRAD0_opsz48_W.png</file>
+        <file>img/paid_FILL1_wght400_GRAD0_opsz48.png</file>
+        <file>img/account_circle_FILL1_wght400_GRAD0_opsz48.png</file>
+        <file>img/add.png</file>
+        <file>img/back.png</file>
+        <file>img/back1.png</file>
+        <file>img/calculator.png</file>
+        <file>img/clear.png</file>
+        <file>img/close.png</file>
+        <file>img/employees.png</file>
+        <file>img/exit.png</file>
+        <file>img/finance.png</file>
+        <file>img/fired.png</file>
+        <file>img/home_.png</file>
+        <file>img/lock_reset_.png</file>
+        <file>img/login_.png</file>
+        <file>img/update2.png</file>
+        <file>img/user.png</file>
+        <file>img/user-update.png</file>
+        <file>img/visibility.png</file>
+        <file>img/visibility_off.png</file>
+        <file>img/north_east_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/swap_horiz_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/swap_vert_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/sync_alt_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/trending_down_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/trending_up_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/edit_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/Screenshot 2024-04-16 112656.png</file>
+        <file>img/Screenshot 2024-04-16 122737.png</file>
+        <file>img/Screenshot 2024-04-16 122953.png</file>
+        <file>img/Screenshot 2024-04-16 123312.png</file>
+        <file>img/WhatsApp Image 2024-04-16 at 09.43.59_66a8076d.jpg</file>
+    </qresource>
+</RCC>
