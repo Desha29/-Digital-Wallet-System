@@ -1,0 +1,120 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/account.png</file>
+        <file>img/account_circle_FILL1_wght400_GRAD0_opsz48.png</file>
+        <file>img/ach.jpg</file>
+        <file>img/add.png</file>
+        <file>img/add_box_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/add_circle_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/apps_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/back.png</file>
+        <file>img/back1.png</file>
+        <file>img/backspace_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/calculator.png</file>
+        <file>img/cancel_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/card.svg</file>
+        <file>img/check_circle_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/clear.png</file>
+        <file>img/close.png</file>
+        <file>img/delete_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/done_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/download_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/edit_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/Employee-Payroll-App.jpg</file>
+        <file>img/employees.png</file>
+        <file>img/ew5.png</file>
+        <file>img/e-wallet.jpg</file>
+        <file>img/e-wallet2.jpg</file>
+        <file>img/e-wallet3.jpg</file>
+        <file>img/exit.png</file>
+        <file>img/favorite_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/file_download_done_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/finance.png</file>
+        <file>img/fired.png</file>
+        <file>img/home_.png</file>
+        <file>img/home_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/home_FILL1_wght400_GRAD0_opsz24.png</file>
+        <file>img/IMG-20240504-WA0076.jpg</file>
+        <file>img/keyboard_voice_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/lock_reset_.png</file>
+        <file>img/login_.png</file>
+        <file>img/login_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/logout_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/manage_search_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/menu_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/north_east_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/OIP.jpeg</file>
+        <file>img/other_houses_FILL1_wght400_GRAD0_opsz24.png</file>
+        <file>img/other_houses_FILL1_wght400_GRAD0_opsz24.svg</file>
+        <file>img/paid_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/paid_FILL0_wght400_GRAD0_opsz48-W.png</file>
+        <file>img/paid_FILL1_wght400_GRAD0_opsz48.png</file>
+        <file>img/payment-method.png</file>
+        <file>img/person.png</file>
+        <file>img/profile.jpg</file>
+        <file>img/receipt_long_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/receipt_long_FILL0_wght400_GRAD0_opsz48-W.png</file>
+        <file>img/Screenshot 2024-04-16 112656.png</file>
+        <file>img/Screenshot 2024-04-16 122737.png</file>
+        <file>img/Screenshot 2024-04-16 122953.png</file>
+        <file>img/Screenshot 2024-04-16 123312.png</file>
+        <file>img/search_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/settings_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/settings_FILL0_wght400_GRAD0_opsz48_W.png</file>
+        <file>img/settings_FILL1.png</file>
+        <file>img/settings_FILL1_wght400_GRAD0_opsz24.png</file>
+        <file>img/swap_horiz_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/swap_vert_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/sync_alt_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/trending_down_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/trending_up_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/update2.png</file>
+        <file>img/user.png</file>
+        <file>img/user-update.png</file>
+        <file>img/visa.png</file>
+        <file>img/visibility.png</file>
+        <file>img/visibility_off.png</file>
+        <file>img/wallet_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>img/wallet_FILL0_wght400_GRAD0_opsz48_W.png</file>
+        <file>img/WhatsApp Image 2024-04-16 at 09.43.59_66a8076d.jpg</file>
+        <file>img/WhatsApp Image 2024-05-04 at 17.51.28_4a0919af.jpg</file>
+        <file>img/WhatsApp Image 2024-05-04 at 17.51.28_4c7f3e19.jpg</file>
+        <file>img/WhatsApp Image 2024-05-04 at 17.59.20_b53c116e.jpg</file>
+        <file>img/WhatsApp Image 2024-05-05 at 03.11.54_a4d84041.jpg</file>
+        <file>img/cash.png</file>
+        <file>img/delete.png</file>
+        <file>img/group.png</file>
+        <file>img/money-transfer.png</file>
+        <file>img/profile-user.png</file>
+        <file>img/receive-money.png</file>
+        <file>img/send.png</file>
+        <file>img/transfer.png</file>
+        <file>img/user1.png</file>
+        <file>img/user2.png</file>
+        <file>img/useradd.png</file>
+        <file>img/user-profile.png</file>
+        <file>img/userremove.png</file>
+        <file>img/userremv.png</file>
+        <file>img/user5.png</file>
+        <file>img/renew.png</file>
+        <file>img/update.png</file>
+        <file>img/menu-bar.png</file>
+        <file>img/open-menu.png</file>
+        <file>img/dashboard.png</file>
+        <file>img/home.png</file>
+        <file>img/home1.png</file>
+        <file>img/logout.png</file>
+        <file>img/log-out.png</file>
+        <file>img/budgeting.png</file>
+        <file>img/receive-money2.png</file>
+        <file>img/receive-money3.png</file>
+        <file>img/ban.png</file>
+        <file>img/ban-user.png</file>
+        <file>img/growth.png</file>
+        <file>img/charity.png</file>
+        <file>img/financial.png</file>
+        <file>img/savings.png</file>
+        <file>img/arrow_downward_alt_24dp_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/arrow_upward_alt_24dp_FILL0_wght400_GRAD0_opsz24.png</file>
+    </qresource>
+</RCC>
